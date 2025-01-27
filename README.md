@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in power bi , creating multiple charts to analyze the data , this process involved several stages, Including data processing , data Cleaning, and data visualization.
+#Amazon-Prime-Movies-and-TV-Shows-Data-Analysis (Interactive Dashboard creating using Power Bi)
+##dataset used :
+<a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows"> Amazon Prime Movies and TV Shows
